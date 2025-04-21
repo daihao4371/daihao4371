@@ -6,12 +6,12 @@
 <h3 align="center">🚀 Cloud Native DevOps Engineer | Full Stack & AI Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hugo4371&label=Profile%20views&color=0e75b6&style=flat" alt="hugo4371" />
+  <img src="https://komarev.com/ghpvc/?username=daihao4371&label=Profile%20views&color=0e75b6&style=flat" alt="Hugo" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hugo4371&theme=onedark&title=Stars,Followers,Commit,Repo" alt="hugo4371" />
+    <img src="https://github-profile-trophy.vercel.app/?username=daihao4371&theme=onedark&title=Stars,Followers,Commit,Repo" alt="Hugo" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🐳 Passionate about **K8s, Infrastructure as Code, Observability, GitOps**
 - 💬 Ask me about **Linux, DevOps tooling, AI frameworks**
 - 📫 How to reach me: **your.email@example.com**
-- 🌐 Portfolio: [https://github.com/hugo4371](https://github.com/hugo4371)
+- 🌐 Portfolio: [https://github.com/daihao4371](https://github.com/daihao4371)
 
 ---
 
@@ -55,11 +55,11 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo4371&layout=compact&langs_count=8&theme=radical" alt="top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daihao4371&layout=compact&langs_count=8&theme=radical" alt="top-langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugo4371&show_icons=true&theme=radical" alt="github-stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daihao4371&show_icons=true&theme=radical" alt="github-stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugo4371&theme=radical" alt="github-streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daihao4371&theme=radical" alt="github-streak" /></p>
 
 ---
 
