@@ -37,7 +37,7 @@
 - 💻 主要技术栈: **Golang、Python、Vue + TypeScript**
 - 🐳 热衷于 **K8s、基础设施即代码(IaC)、可观测性、GitOps**
 - 🚀 正在构建 **高可用、自愈的云原生系统**
-- 📫 联系我: **daihao5887@gmail**
+- 📫 联系我: **daihao5887@gmail.com**
 - 🌐 作品集: [https://github.com/daihao4371](https://github.com/daihao4371)
 - ⚡ 有趣的事实: **我是一名开源贡献者，热爱解决复杂的基础设施挑战**
 
