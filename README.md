@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hugo4371/hugo4371/main/assets/banner.png" alt="Cloud Native DevOps Engineer - Hugo" />
+  <img src="https://raw.githubusercontent.com/daihao4371/daihao4371/main/assets/banner.png" alt="Cloud Native DevOps Engineer - Hugo" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hugo</h1>
