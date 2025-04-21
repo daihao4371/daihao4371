@@ -1,6 +1,11 @@
+
+
+<!-- 如果上面的方式不起作用，可以尝试使用下面的HTML方式，增加宽度控制 -->
+<!-- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daihao4371/daihao4371/main/assets/banner.png" alt="Cloud Native DevOps Engineer - Hugo" />
+  <img src="https://github.com/daihao4371/daihao4371/raw/main/assets/banner.png" alt="Cloud Native DevOps Engineer - Hugo" width="800" />
 </p>
+-->
 
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">🚀 Cloud Native DevOps Engineer | Full Stack & AI Developer</h3>
@@ -12,6 +17,10 @@
   </a>
   <a href="https://github.com/daihao4371/daihao4371">
     <img src="https://img.shields.io/github/stars/daihao4371/daihao4371?style=social" alt="Stars" />
+  </a>
+  <!-- 添加GitHub Actions工作流程状态徽章 -->
+  <a href="https://github.com/daihao4371/your-repo/actions/workflows/main.yml">
+    <img src="https://github.com/daihao4371/your-repo/actions/workflows/main.yml/badge.svg" alt="CI Status" />
   </a>
 </div>
 
@@ -28,7 +37,7 @@
 - 💻 主要技术栈: **Golang、Python、Vue + TypeScript**
 - 🐳 热衷于 **K8s、基础设施即代码(IaC)、可观测性、GitOps**
 - 🚀 正在构建 **高可用、自愈的云原生系统**
-- 📫 联系我: **daihao5887@gmail.com**
+- 📫 联系我: **your.email@example.com**
 - 🌐 作品集: [https://github.com/daihao4371](https://github.com/daihao4371)
 - ⚡ 有趣的事实: **我是一名开源贡献者，热爱解决复杂的基础设施挑战**
 
@@ -38,14 +47,30 @@
   <summary><b>云原生 & DevOps</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
-    <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio" />
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+    </a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+    </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+    </a>
+    <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+    </a>
+    <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
+    </a>
+    <a href="https://istio.io/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/>
+    </a>
   </p>
 </details>
 
@@ -53,12 +78,24 @@
   <summary><b>编程语言 & 框架</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+    </a>
   </p>
 </details>
 
@@ -66,12 +103,24 @@
   <summary><b>CI/CD & 工具</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
-    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
+    </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+    </a>
+    <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab ci" width="40" height="40"/>
+    </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
   </p>
 </details>
 
@@ -79,39 +128,29 @@
   <summary><b>云服务 & 数据库</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </a>
   </p>
 </details>
 
-## 🔥 精选项目
 
-<div align="center">
-  <a href="https://github.com/daihao4371/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daihao4371&repo=project1&theme=nord" alt="Project 1" />
-  </a>
-  <a href="https://github.com/daihao4371/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daihao4371&repo=project2&theme=nord" alt="Project 2" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/daihao4371/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daihao4371&repo=project3&theme=nord" alt="Project 3" />
-  </a>
-  <a href="https://github.com/daihao4371/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daihao4371&repo=project4&theme=nord" alt="Project 4" />
-  </a>
-</div>
 
-<p align="center">
-  <a href="https://github.com/daihao4371?tab=repositories">
-    <img src="https://img.shields.io/badge/查看所有项目-212121?style=for-the-badge&logo=github&logoColor=white" alt="查看所有项目" />
-  </a>
-</p>
 
 ## 📊 GitHub 统计
 
@@ -130,27 +169,59 @@
 
 ## 📫 联系我
 
-<div align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</div>
 
----
+
+
+</details>
+
+## 🔥 精选项目
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daihao4371/daihao4371/main/assets/footer.png" alt="Footer" width="100%" />
-  <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" />
-  <br><br>
-  <p>如果我的项目对您有帮助，请考虑给它们点个⭐️</p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/daihao4371/kubernetes-project">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
+          <br />
+          <b>Kubernetes 项目</b>
+        </a>
+        <br />
+        <sub>基于Kubernetes的云原生应用部署与管理平台</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/daihao4371/devops-tools">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="DevOps"/>
+          <br />
+          <b>DevOps 工具集</b>
+        </a>
+        <br />
+        <sub>自动化部署与运维工具集合，提升开发效率</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/daihao4371/cloud-native-app">
+          <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" height="50" alt="Cloud Native"/>
+          <br />
+          <b>云原生应用</b>
+        </a>
+        <br />
+        <sub>基于微服务架构的云原生应用示例</sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/daihao4371/infrastructure-as-code">
+          <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" height="50" alt="IaC"/>
+          <br />
+          <b>基础设施即代码</b>
+        </a>
+        <br />
+        <sub>使用Terraform和Ansible实现基础设施自动化</sub>
+      </td>
+    </tr>
+  </table>
 </div>
+
+  <a href="https://github.com/daihao4371?tab=repositories">
+    <img src="https://img.shields.io/badge/查看所有项目-212121?style=for-the-badge&logo=github&logoColor=white" alt="查看所有项目" />
+  </a>
+</p>
